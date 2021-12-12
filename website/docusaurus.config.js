@@ -13,8 +13,8 @@ const config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'firecrest-io', // Usually your GitHub org/user name.
-  projectName: 'firecrest-io.github.io', // Usually your repo name.
+  organizationName: 'altaf-ali', // Usually your GitHub org/user name.
+  projectName: 'altaf-ali.github.io', // Usually your repo name.
   deploymentBranch: 'gh-pages',
   trailingSlash: false,
 

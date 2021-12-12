@@ -15,7 +15,7 @@ const FeatureList = [
   },
   {
     title: 'Python and R API',
-    Svg: require('../../static/img/r_python_api.svg').default,
+    Svg: require('../../static/img/client_libraries.svg').default,
     description: (
       <>
         Analyze your data in R or Python with firecrest client libraries.

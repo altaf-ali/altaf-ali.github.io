@@ -45,17 +45,14 @@ const config = {
           src: 'img/firecrest.png',
         },
       },
-      footer: {
-        style: 'dark',
-        copyright: `Copyright © ${new Date().getFullYear()} firecrest.io, Built with Docusaurus.`,
-      },
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
-      // colorMode: {
-      //   defaultMode: 'dark',
-      // }
+      colorMode: {
+        defaultMode: 'dark',
+        disableSwitch: true
+      },
     }),
 };
 
